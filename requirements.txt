@@ -1,0 +1,14 @@
+jupyter
+keras
+keras-rectified-adam
+matplotlib
+natsort
+nibabel
+numpy
+opencv-python
+pandas
+scikit-image
+sklearn
+Tensorboard
+tensorflow
+vtk

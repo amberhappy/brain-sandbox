@@ -1,0 +1,21 @@
+# Input datasets
+input/*
+!input/.gitkeep
+
+# Output results
+output/*/*/*
+output/*/*.csv
+!output/*/*/.gitkeep
+
+# Bash script used to control training
+scheduler
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# IDE config files
+.vscode/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+# *.ipynb
